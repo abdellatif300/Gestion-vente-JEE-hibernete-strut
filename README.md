@@ -13,4 +13,9 @@ o	Créer une page (ou plusieurs pages)  d’ajout d’une commande par Article e
 ▪	Ajouter une nouvelle ligne de commande dans la table ‘’ commandes’’ par Hibernate  à partir de G_vente).
 
 o	Créer les pages de creation et modification des mots de passe du compte de l’utilisateur.
+<br>
+
+
+
+
 ![Capture1](https://github.com/abdellatif300/Gestion-vente-JEE-hibernete-strut/assets/118125877/6398b8e8-80b2-4417-bc50-639af53cb01e)
